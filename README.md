@@ -1,4 +1,4 @@
-# student-replacement-analysis
+# Student Replacement analysis for an Australian school
 This dataset is about the replacement of students in an Australian school. This dataset
 provides student information that may be used by an organization to identify any potential
 problems with student placement on campuses. The marketing department needs to analyze
